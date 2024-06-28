@@ -10,6 +10,13 @@ git config --global user.email "henrik@lassen.dk"
 git config --global user.nam "Henrik Lassen"   
 ```
 
+# Create repo
+```
+git status
+git clone 
+```
+
+
 # Edit
 
 # Add/Commit files (all)
