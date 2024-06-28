@@ -15,7 +15,7 @@ git config --global user.nam "Henrik Lassen"
 # Add/Commit files (all)
 ```
 git add -A
-git commit
+git commit -m "Fix formatting"
 ```
 # Push files
 ```
