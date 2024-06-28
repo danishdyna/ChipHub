@@ -7,7 +7,7 @@ This repo is for testing git stuff - perhaps have some fun.
 # Configure your identity (once)
 ```
 git config --global user.email "henrik@lassen.dk"
-git config --global user.nam "Henrik Lassen"   
+git config --global user.name "Henrik Lassen"   
 ```
 
 # Create repo (once)
