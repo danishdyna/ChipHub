@@ -30,7 +30,7 @@ git pull
 git push
 ```
 # Rename default branch
-1) Rename "Deafault Branch" in GitHub: "Settings/General"
+1) Rename "Default Branch" in GitHub: "Settings/General"
 ```
 git branch -m master main
 git fetch origin
