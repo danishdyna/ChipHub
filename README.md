@@ -30,9 +30,8 @@ git pull
 git push
 ```
 # Default branch - Rename
-1) Repo Main (GitHub): 
-"Settings/General/Default Branch/Rename"
-2) Repo Local:
+1) Repo "main" GitHub: "Settings/General/Default Branch/Rename"
+2) Repo "main" Local:
 ```
 git branch -m master main
 git fetch origin
