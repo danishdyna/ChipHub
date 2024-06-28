@@ -1,4 +1,4 @@
-# INSTALL
+# INSTALL - VS Code &  Git
 ## Visual Studio Code (Window 11)
 https://code.visualstudio.com/Download# 
 
