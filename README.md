@@ -2,7 +2,7 @@
 
 This repo is for testing git stuff - perhaps have some fun.
 
-/ Henrik Lassen
+/ Henrik
 
 # Configure your identity
 ```
