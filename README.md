@@ -29,10 +29,8 @@ git commit -m "Fix formatting"
 git pull
 git push
 ```
-# Default branch - Rename
-1) Repo Main (GitHub): 
-"Settings/General/Default Branch/Rename"
-2) Repo Local:
+# Rename default branch
+1) Rename "Deafault Branch" in GitHub: "Settings/General"
 ```
 git branch -m master main
 git fetch origin
