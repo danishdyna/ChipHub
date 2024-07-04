@@ -6,11 +6,11 @@ This repo is for testing git stuff - perhaps have some fun.
 
 # Configure your identity (once - should be chip mail address)
 ```
-git config --global user.email "henrik@lassen.dk"
+git config --global user.email "henrik.lassen@regionh.dk"
 git config --global user.name "Henrik Lassen"   
 ```
 
-# Create repo (once)
+# Repo Clone (once)
 ```
 git status
 git clone https://github.com/danishdyna/chiphub.git
