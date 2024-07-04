@@ -48,3 +48,9 @@ git branch -M main
 git remote add origin https://github.com/danishdyna/MyRepo.git
 git push -u origin main
 ```
+# Repo - Push new (Command Line)
+```
+git remote add origin https://github.com/danishdyna/PushRepo.git
+git branch -M main
+git push -u origin main
+```
