@@ -29,7 +29,7 @@ git commit -m "Fix formatting"
 git pull
 git push
 ```
-# Default branch - Rename
+# Branch - Rename (Default)
 1) Repo "main" GitHub: "Settings/General/Default Branch/Rename"
 2) Repo "main" Local:
 ```
@@ -37,4 +37,14 @@ git branch -m master main
 git fetch origin
 git branch -u origin/main main
 git remote set-head origin -a
+```
+# Repo - Create new (Command Line)
+```
+echo "# MyRepo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/danishdyna/MyRepo.git
+git push -u origin main
 ```
