@@ -1,6 +1,6 @@
 # Install Docker - Windows
 ## Download & Compare Checksum
-Docker Desktop for Windows - PowerShell  
+Docker Desktop for Windows (PowerShell)  
 https://docs.docker.com/desktop/install/windows-install/
 ```
 cd %USERPROFILE%\Downloads
