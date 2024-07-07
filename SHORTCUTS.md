@@ -1,6 +1,7 @@
 <table>
 <tr><th>Environment</th><th>Shortcut</th><th>Comment</th></tr>
-<tr><td rowspan=5>GitHub</td><td>e</td><td>Edit file</td></tr>
+<tr><td rowspan=6>GitHub</td><td>?</td><td>Shortcuts</td></tr>
+<tr><td>e</td><td>Edit file</td></tr>
 <tr><td>Ctrl+Shift+p</td><td>Edit/Preview toggle</td></tr>
 <tr><td>Ctrl+s</td><td>Save file</td></tr>
 <tr><td>Ctrl+z</td><td>Undo change</td></tr>
