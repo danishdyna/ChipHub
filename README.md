@@ -4,7 +4,7 @@ This repo is for testing git stuff - perhaps have some fun.
 
 / Henrik
 
-# Configure your identity (once - should be chip mail address)
+# Configure your identity (chip email)
 ```
 git config --global user.email "henrik.lassen@regionh.dk"
 git config --global user.name "Henrik Lassen"   
