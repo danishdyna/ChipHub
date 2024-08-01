@@ -1,9 +1,9 @@
 # Chiphub: GIT Cheatsheat
-
-GIT Cheatsheat for testing git stuff - and perhaps have some fun.
+GIT Cheatsheat for testing git stuff - and perhaps have some fun.  
 / Henrik
 
 ## Repository - Change local clone
+The idea is to clone to local repo, save changes, add files changes, commit and push local repo to server.
 ### Clone Repo (to local repo)
 ```
 git status
