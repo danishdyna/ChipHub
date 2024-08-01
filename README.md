@@ -35,7 +35,7 @@ git pull
 git commit -m "Changes to BRQANCH-NEW"
 git push
 ```
-### Branch - Rename HEAD (To "Main")
+### Branch - Rename HEAD "Master" (To "Main")
 1) Repo "main" GitHub: "Settings/General/Default Branch/Rename"
 2) Repo "main" Local:
 ```
