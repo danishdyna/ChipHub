@@ -4,21 +4,22 @@ GIT Cheatsheat for testing git stuff - and perhaps have some fun.
 / Henrik
 
 ## Repository - Change local clone
-### Repo Clone Repo (Local repo)
+### Clone Repo (to local repo)
 ```
 git status
 git clone https://github.com/danishdyna/chiphub.git
 ```
-### Edit Repo (Use "VS Code", "Notepad", "vi")
+### Edit Repo (to local repo)
+Editors - use "VS Code", "Notepad", "vi")
 ```
 notepad README.md
 ```
-### Add & Commit files (Local repo)
+### Add & Commit files (to local repo)
 ```
 git add -A
 git commit -m "Fix formatting"
 ```
-### Push files (Server Repo)
+### Push files (To server repo)
 ```
 git pull
 git push
