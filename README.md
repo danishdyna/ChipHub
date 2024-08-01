@@ -44,7 +44,7 @@ git fetch origin
 git branch -u origin/main main
 git remote set-head origin -a
 ```
-## Repository - New
+## Repository - New github repo
 ### Repo - Create New "Main" (Server Repo)
 ```
 git remote add origin https://github.com/danishdyna/PushRepo.git
