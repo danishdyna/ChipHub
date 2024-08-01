@@ -1,4 +1,4 @@
-# Chiphub: GIT Cheatsheat
+# GIT Cheatsheat
 GIT Cheatsheat for testing git stuff - and perhaps have some fun.  
 / Henrik
 
