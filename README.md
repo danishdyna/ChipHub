@@ -10,7 +10,7 @@ git clone https://github.com/danishdyna/chiphub.git
 ```
 ## Edit Repo (Use "VS Code", "Notepad", "vi")
 ```
-vim README.md
+notepad README.md
 ```
 ## Add & Commit files (Add all files and Commit with commit)
 ```
