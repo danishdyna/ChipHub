@@ -10,7 +10,7 @@ git status
 git clone https://github.com/danishdyna/chiphub.git
 ```
 ### Edit Repo (to local repo)
-Editors - use "VS Code", "Notepad", "vi")
+Editors - use "VS Code", "Notepad", "vi".
 ```
 notepad README.md
 ```
